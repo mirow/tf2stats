@@ -1,0 +1,15 @@
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+--
+-- Table structure for table `replay`
+--
+
+DROP TABLE IF EXISTS `replay`;
+CREATE TABLE IF NOT EXISTS `replay` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `STEAMID` varchar(75) NOT NULL DEFAULT '0',
+  `IP` varchar(75) NOT NULL DEFAULT '0',
+  `TITLE` varchar(60) NOT NULL DEFAULT '0',
+  `URL` varchar(250) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`ID`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=45 ;

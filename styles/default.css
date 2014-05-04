@@ -1,0 +1,139 @@
+body {
+    background: url("../images/patt_4b14e956162cd.jpg") repeat scroll 0 0;
+    color: #000;
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 13px;
+    text-align: center; /* IE 5 fix */
+    line-height: 1.4;
+}
+
+body {
+    cursor: default;
+    font-family: "Segoe UI", Calibri, "Myriad Pro", Myriad, "Trebuchet MS", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+
+body {
+    color: #E2E2E2;
+}
+
+.main_table {
+    width: 952px;
+    text-align: left;
+    background-color: white;
+    border-left: 3px solid #cccccc;
+    border-right: 3px solid #cccccc;
+    border-bottom: 4px solid #cccccc;
+    color: #000000;
+    padding: 0px;
+    text-align: left; /* IE 5 fix */
+}
+
+.main_table td, th {
+    padding: 5px;
+    font-size: 13px;
+}
+
+.item {
+    background: url("../images/items/background.png") no-repeat 0 0;
+    float: left;
+    padding: 8px;
+}
+
+#screenshot {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.foundnr {
+    width: 5px;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.coltitle {
+    background: #14181A url(../images/coltitle_stats.png) repeat-x top left;
+    padding: 5px;
+    border: 1px solid #d00000;
+    color: #E2E2E2;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.coltitle2 {
+    background: #14181A url(../images/coltitle_stats.png) repeat-x top left;
+    padding: 5px;
+    border: 1px solid #d00000;
+    color: #E2E2E2;
+    font-size: 13px;
+    line-height: 1.4;
+    width: 873px;
+}
+
+.toprow {
+    border: 1px solid #d00000;
+    background: #9A9178 url(../images/toprow.png) repeat-x top left;
+    color: #E2E2E2;
+}
+
+.row {
+    background: #EFE5BB;
+    border: 1px solid #d00000;
+    color: #3C3822;
+}
+
+.row_alt {
+    background: #9A9178;
+    border: 1px solid #d00000;
+    color: #3C3822;
+}
+
+.weapontxt {
+    font-size: 10px;
+    color: #d00000;
+    padding: 0px;
+    margin: 0px;
+}
+
+}
+a:hover {
+    color: black;
+    text-decoration: underline
+}
+
+#goerge {
+    background: #444444
+}
+
+.grybrdr {
+    border: 1px solid #8D8D8D
+}
+
+.tlarge {
+    font-weight: bold;
+    font-size: 12px
+}
+
+.bump {
+}
+
+a {
+    color: #d00000;
+    text-decoration: none
+}
+
+.header {
+}
+
+td {
+    padding: 5px
+}
+
+input.btn {
+    color: #050;
+    font: bold 84% 'trebuchet ms', helvetica, sans-serif;
+    background-color: #fed;
+    border: 1px solid;
+    border-color: #696 #363 #363 #696;
+}
